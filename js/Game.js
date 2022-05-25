@@ -161,7 +161,7 @@ class Game {
       player.atualizarran (player.ranking);
       player.atuapo ();
       this.placar ();
-      this.perdeu ();
+      
     }
 
     drawSprites ();
